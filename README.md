@@ -14,6 +14,10 @@ We do not collect personal data through our own servers or services. Information
 
 Because we do not collect personal data, we do not maintain user records and therefore cannot access, modify, or delete personal data.
 
+The App does not include analytics, telemetry, or remote logging
+
+This Privacy Policy applies only to the App and not to any external services used by the user.
+
 Local Processing Only
 
 All photo processing and color correction performed by the App happens locally on your machine.
