@@ -10,7 +10,9 @@ The App is designed to process photos locally on your Mac. We do not collect, tr
 
 Information We Collect:
 
-No data is collected
+We do not collect personal data through our own servers or services. Information remains on device. 
+
+Because we do not collect personal data, we do not maintain user records and therefore cannot access, modify, or delete personal data.
 
 Local Processing Only
 
@@ -48,7 +50,7 @@ The App may request access to files, folders, or the photo library only when nee
 
 Children’s Privacy
 
-The App does not collect any data including childrens data as well.
+The App does not knowingly collect personal information from children under 13. Because we do not collect personal data, the App is not directed at children and does not process children’s data.
 
 Security
 
